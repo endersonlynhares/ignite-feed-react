@@ -1,7 +1,6 @@
 <div align="center"> 
   
 ![image](https://user-images.githubusercontent.com/67762648/212135480-ff9b5ed9-d957-436b-a8b2-a91a44a3c3e0.png)
-
 # ignite Feed
 Project developed from RocketSeat's Ignite section, which is a feed made in ReactJS.
 
@@ -18,7 +17,12 @@ Project developed from RocketSeat's Ignite section, which is a feed made in Reac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
 </div>
 
-###
+## Interface
+
+<div style="display: flex; align-item:center;justify-content: center">
+  <img src="https://github.com/endersonlynhares/ignite-feed-react/blob/master/public/capture.png" /
+
+</div>
 
 ## Running the project
 
