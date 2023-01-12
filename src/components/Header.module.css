@@ -1,0 +1,26 @@
+.header{
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    background: var(--gray-800);
+    padding: 1.25rem 0;
+}
+
+.header strong{
+    visibility: visible;
+    max-height: none;
+    font-size: 1.675rem;
+}
+
+.header img{
+    height: 3rem;
+}
+
+@media (max-width: 768px){
+    
+.header strong{
+   display: none;
+}
+
+}
